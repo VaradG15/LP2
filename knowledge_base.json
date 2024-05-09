@@ -1,0 +1,38 @@
+{
+  "mobile": [
+    {
+      "question": "Hello",
+      "answer": "Hey there!!"
+    },
+    {
+      "question": "What is the price ?",
+      "answer": "2000 rupees"
+    },
+    {
+      "question": "tell me about the mobile",
+      "answer": "It is the best mobile you can find"
+    },
+    {
+      "question": "mobile",
+      "answer": "hello"
+    }
+  ],
+  "refrigerator": [
+    {
+      "question": "Hello",
+      "answer": "Hey there!!"
+    },
+    {
+      "question": "What is the price ?",
+      "answer": "2000 rupees"
+    },
+    {
+      "question": "What are the dimensions?",
+      "answer": "Height : 2 meters, Width : 1 meter"
+    },
+    {
+      "question": "refrigerator",
+      "answer": "okay"
+    }
+  ]
+}
